@@ -1,0 +1,41 @@
+/* stili generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* stili header */
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    padding:15px ;
+}
+
+/* stili main */
+
+.container{
+    
+    width: 1100px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    background-color:white;
+}
+
+p{
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.card{
+    width: calc((100%/3) - 30px);
+    height: 90px;
+     margin-right: 30px;
+    margin-top: 50px;
+    float: left;
+    /* debug rules */
+    background-color: red;
+    border: 1px solid black;
+}
