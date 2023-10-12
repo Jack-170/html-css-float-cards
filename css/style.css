@@ -35,9 +35,8 @@ p{
      margin-right: 30px;
     margin-top: 50px;
     float: left;
-    /* debug rules */
     background-color: rgb(4, 35, 88);
-    border: 1px solid black;
+   
 }
 
 img{
