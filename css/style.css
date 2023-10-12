@@ -36,6 +36,22 @@ p{
     margin-top: 50px;
     float: left;
     /* debug rules */
-    background-color: red;
+    background-color: rgb(4, 35, 88);
     border: 1px solid black;
+}
+
+img{
+    float: left;
+    width: 30%;
+    height: 89px ;
+}
+
+section{
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+    padding: 10px ;
+}
+.email{
+    color: rgb(42, 141, 255);
 }
